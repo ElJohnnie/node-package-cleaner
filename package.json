@@ -1,0 +1,15 @@
+{
+  "name": "clean-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "clean-packages": "./bin.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.1",
+    "find-up": "^6.3.0",
+    "fs": "^2.0.0"
+  }
+}
